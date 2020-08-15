@@ -1,2 +1,2 @@
-# AngryBirdGame
-Creating many class and helping the angry bird move with the world mouse y and x
+# angryBirdsStage1
+Stage 1 Angry Birds
